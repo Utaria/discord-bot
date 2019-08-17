@@ -4,7 +4,7 @@
   "description": "Bot de notre serveur Discord",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^11.2.1",
+    "discord.js": "^11.5.1",
     "dotenv": "^8.0.0"
   },
   "devDependencies": {},
